@@ -1,8 +1,8 @@
-# Operating-Systems-Ex5
-
-Dvir Biton
+# safe_multi_process_stack
 
 Ohad Shirazi
+
+Dvir Biton
 
 how to run:
 
